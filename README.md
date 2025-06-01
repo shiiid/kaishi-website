@@ -334,7 +334,7 @@
                 </div>
             </div>
             <div class="mt-6 text-center text-gray-400 text-sm">
-                <p>© 2023 KAISHI - Platform Belajar Matematika Interaktif</p>
+                <p>© 2025 KAISHI - Platform Belajar Matematika Interaktif</p>
             </div>
         </div>
     </footer>
